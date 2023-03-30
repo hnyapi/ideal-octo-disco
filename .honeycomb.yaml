@@ -1,5 +1,7 @@
 version: 1
 
+honeycomb_team: "mridula.jayaraman-gettingstarted"
+
 deployment_gates:
   staging: # github env name
     queries:
